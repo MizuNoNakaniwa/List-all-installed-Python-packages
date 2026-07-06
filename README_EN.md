@@ -1,6 +1,6 @@
 [中文](./README.md) | **English**
 
-# pyrecords — One-Click Audit of Python Download/Install Records
+# PyRecords — One-Click Audit of Python Download/Install Records
 
 Scans your machine for every trace of Python downloads and installations, then compiles a timestamped report saved to your Desktop (`Python下载记录.txt`).
 
