@@ -1,6 +1,6 @@
 **中文** | [English](./README_EN.md)
 
-# pyrecords — 一键盘点 Python 下载/安装记录
+# PyRecords — 一键盘点 Python 下载/安装记录
 
 扫描你电脑上所有 Python 相关的下载和安装痕迹，汇总成一份带时间线的清单，自动存到桌面（`Python下载记录.txt`）。
 
